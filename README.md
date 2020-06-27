@@ -1,6 +1,6 @@
 # backend-nodeJS-mySQL
 
-##Notas:
+## Notas:
   - Para instalar dependencias ejecutar en consola => npm i.
   - Para iniciar el servidor ejecutar en consola => npm run dev.
   - Para iniciar el compilador de TS a JS ejecutar en consola => npm run build.
